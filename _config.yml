@@ -1,5 +1,6 @@
 lsi: false
 safe: true
+theme: jekyll-theme-slate
 source: []
 incremental: false
 highlighter: rouge
